@@ -32,6 +32,10 @@ class LiveAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
         return items.size
     }
 
+    fun setDataSet(lives : List<Live>){
+        this.items = lives
+    }
+
     class LiveViewHolder constructor(
         itemView : View //preciso passar essa implementaçao do ViewHolder nessa classe tbm.
     ) : RecyclerView.ViewHolder(itemView){
