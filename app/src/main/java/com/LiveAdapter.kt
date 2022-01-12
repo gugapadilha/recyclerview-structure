@@ -4,6 +4,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
+import com.bumptech.glide.request.RequestOptions
 import com.example.recyclerviewstructure.R
 import com.model.Live
 import kotlinx.android.synthetic.main.res_item_live.view.*
@@ -49,6 +51,15 @@ class LiveAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
             liveTitle.text = live.title
             liveAuthor.text = live.author
+
+            val requestOptions = RequestOptions()
+                .placeholder(R.drawable.ic_launcher_background)
+                .error(R.drawable.ic_launcher_background)
+
+            Glide.with(itemView.context)
+                .applyDefaultRequestOptions(requestOptions)
+                .load(live.thumbanilUrl)
+                .into(liveThumbnail)
 
         }
 
