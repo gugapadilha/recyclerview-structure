@@ -2,7 +2,7 @@
 
   > Status: Finalizado ✔️
   
-  ### Estrturando um simples projeto buscando uma lista de videos(URL) feitos na pasta DataSource do projeto -simulando uma busca de dados de alguma API.
+  ### Estruturando um simples projeto buscando uma lista de videos(URL) feitos na pasta DataSource do projeto -simulando uma busca de dados de alguma API.
   
   <br>
   
