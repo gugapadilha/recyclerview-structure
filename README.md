@@ -13,6 +13,7 @@
    ### Imagens do projeto:
   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![foto1](https://user-images.githubusercontent.com/79876042/148781362-786dbe84-8301-4a7f-9073-d558c51b790b.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela1](https://user-images.githubusercontent.com/79876042/149163459-858d38f0-80db-4310-b7e3-b10408882ef4.png)
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![foto2](https://user-images.githubusercontent.com/79876042/148781429-e9748d99-637b-4f71-8b3a-733fee1b65d6.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela2](https://user-images.githubusercontent.com/79876042/149163472-78ef169d-59fd-4f52-8090-27ec7f63b097.png)
+
