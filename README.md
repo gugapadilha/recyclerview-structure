@@ -1,5 +1,6 @@
 <h1> Projeto: Redirecionando para o Youtube <h1> 
   > Status: Finalizado ✔️
+  
   ### Estruturando um simples projeto buscando uma lista de videos(URL) feitos na pasta DataSource do projeto -simulando uma busca de dados de alguma API.
   
   <br>
