@@ -1,12 +1,12 @@
-<h1> Projeto: Redirecionando para o Youtube <h1> 
+<h1> Project: Redirecting for Youtube<h1> 
   
-  > Status: Finalizado ✔️
+  > Status: Finished ✔️
   
-  ### Estruturando um simples projeto buscando uma lista de videos(URL) feitos na pasta DataSource do projeto -simulando uma busca de dados de alguma API.
+  ### Structuring a simple project by searching a list of videos (URL) made in the project's DataSource folder - simulating a data search from some API.
   
   <br>
   
-  <strong>Tecnologias usadas: </strong>
+  <strong>Technologies Used: </strong>
    + Kotlin
    + Android 
   
